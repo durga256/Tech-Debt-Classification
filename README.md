@@ -16,6 +16,15 @@ The precision and accuracy scores for the Positive and Negative classes are give
 
 # LSTM
 
-![image](https://github.com/durga256/Tech-Debt-Classification/assets/41239586/09df894b-f47f-4b60-ad7d-549ff7be549e)
+The precision and accuracy scores for the Positive and Negative classes are given below for the LSTM. This is without hyperparameter tuning. 
 
+![image](https://github.com/durga256/Tech-Debt-Classification/assets/41239586/6d424d40-c47f-4828-8926-3246571a36bd)
+
+The results below are obtained after hyperparameter tuning. 
+
+![image](https://github.com/durga256/Tech-Debt-Classification/assets/41239586/2f00a562-9499-4133-9a1a-6fd0241416e6)
+
+# Conclusion
+
+In conclusion, while the DeBeRTa model performed better than a LSTM, if we take into account the tradeoff between the increase in accuracy and increase in resources required to run DeBeRTa, LSTM provides us with a fairly less resource intensive solution that can be deployed quickly.
 
