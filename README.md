@@ -16,6 +16,8 @@ The precision and accuracy scores for the Positive and Negative classes are give
 
 # LSTM
 
+The file [VSCode_LSTM.ipynb](https://github.com/durga256/Tech-Debt-Classification/blob/main/VSCode_LSTM.ipynb) implements a LSTM trained on the same dataset as above and tested. 
+
 The precision and accuracy scores for the Positive and Negative classes are given below for the LSTM. This is without hyperparameter tuning. 
 
 ![image](https://github.com/durga256/Tech-Debt-Classification/assets/41239586/6d424d40-c47f-4828-8926-3246571a36bd)
