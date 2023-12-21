@@ -16,4 +16,6 @@ The precision and accuracy scores for the Positive and Negative classes are give
 
 # LSTM
 
+![image](https://github.com/durga256/Tech-Debt-Classification/assets/41239586/09df894b-f47f-4b60-ad7d-549ff7be549e)
+
 
