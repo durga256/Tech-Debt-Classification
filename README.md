@@ -6,6 +6,9 @@ The goal of this project is to analyse commit messages to classify whether that 
 
 The dataset is too large to be uploaded to github. A representational dataset is uploaded here with the file name [vs_code_TD_dataset.csv](https://github.com/durga256/Tech-Debt-Classification/blob/main/vs_code_TD_dataset.csv)
 
+![image](https://github.com/durga256/Tech-Debt-Classification/assets/41239586/7cbd6561-ccc5-4d5a-8781-bc8e5753c24d)
+
+
 # BERT Model
 
 The file [VS_code_Train_30TD.ipynb](https://github.com/durga256/Tech-Debt-Classification/blob/main/VS_code_Train_30TD.ipynb) implements DeBerta as mentioned in the our base paper <br /> [Technical Debt Classification in Issue Trackers using Natural Language Processing based on Transformers](https://ieeexplore.ieee.org/document/10207085) 
